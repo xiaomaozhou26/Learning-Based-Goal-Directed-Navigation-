@@ -8,3 +8,5 @@ Goal-directed end-to-end learning
 <img src="https://github.com/xiaomaozhou26/Towards-Goal-Directed-Navigation-Through-Combining-Learning-Based-Global-and-Local-Planners/blob/master/vgg_action1.jpg"  width="720" height="450">
 
 D3QN
+
+<img src="https://github.com/xiaomaozhou26/Towards-Goal-Directed-Navigation-Through-Combining-Learning-Based-Global-and-Local-Planners/blob/master/ddqn1.jpg"  width="720" height="450">
