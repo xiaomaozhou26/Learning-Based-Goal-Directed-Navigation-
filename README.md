@@ -13,7 +13,7 @@ Goal-directed end-to-end learning
 
 Training Data 
 ========
-The training data is collected in our lab and can be downloaded [here].
+The training data is collected in our lab and can be downloaded [here] (https://drive.google.com/drive/folders/1fvC_lWlIz1shrV3d_61Yvd48RVBJHHYe).
 
 D3QN
 ========
