@@ -13,7 +13,7 @@ Goal-directed end-to-end learning
 
 Training Data 
 ========
-The training data is collected in our lab.
+The training data is collected in our lab and can be downloaded [here].
 
 D3QN
 ========
@@ -21,7 +21,7 @@ D3QN
 
 Code
 ========
-All the codes are available here.
+All the codes are available [here1] and [here2].
 
 Performance
 ========
