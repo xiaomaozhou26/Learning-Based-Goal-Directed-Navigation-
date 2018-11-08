@@ -25,7 +25,7 @@ All the codes are available here.
 
 Performance
 ========
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/GzdKMVn8avo/0.jpg)](https://www.youtube.com/watch?v=B8KzscJVUZc "CameraMaster")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/B8KzscJVUZc/0.jpg)](https://www.youtube.com/watch?v=B8KzscJVUZc "CameraMaster")
 
 
 Reference
