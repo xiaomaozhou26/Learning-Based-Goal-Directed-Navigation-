@@ -2,4 +2,4 @@ Robot navigation is a fundamental problem in robotics and various approaches hav
 
 Goal-directed end-to-end learning
 
-![image](https://github.com/xiaomaozhou26/Towards-Goal-Directed-Navigation-Through-Combining-Learning-Based-Global-and-Local-Planners/blob/master/vgg_action1.jpg/2/w/300)
+![image](https://github.com/xiaomaozhou26/Towards-Goal-Directed-Navigation-Through-Combining-Learning-Based-Global-and-Local-Planners/blob/master/vgg_action1.jpg){:height="36px" width="36px"} <img src="https://github.com/xiaomaozhou26/Towards-Goal-Directed-Navigation-Through-Combining-Learning-Based-Global-and-Local-Planners/blob/master/vgg_action1.jpg"  width="120" height="120">
