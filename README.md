@@ -4,6 +4,7 @@ Robot navigation is a fundamental problem in robotics and various approaches hav
 The proposed navigation system consists of a global planner and a local planner which are based on two learning methods: end-to-end learning and reinforcement learning (D3QN).
 
 Goal-directed end-to-end learning
+========
 
 <img src="https://github.com/xiaomaozhou26/Towards-Goal-Directed-Navigation-Through-Combining-Learning-Based-Global-and-Local-Planners/blob/master/vgg_action1.jpg"  width="720" height="450">
 
