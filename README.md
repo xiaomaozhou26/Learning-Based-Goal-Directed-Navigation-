@@ -19,6 +19,15 @@ D3QN
 ========
 <img src="https://github.com/xiaomaozhou26/Towards-Goal-Directed-Navigation-Through-Combining-Learning-Based-Global-and-Local-Planners/blob/master/ddqn1.jpg"  width="920" height="450">
 
+Code
+========
+All the codes are available here.
+
+Performance
+========
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/GzdKMVn8avo/0.jpg)](https://www.youtube.com/watch?v=B8KzscJVUZc "CameraMaster")
+
+
 Reference
 ========
 1. Codevilla F, Miiller M, López A, et al. End-to-end driving via conditional imitation learning[C]//2018 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2018: 1-9.
